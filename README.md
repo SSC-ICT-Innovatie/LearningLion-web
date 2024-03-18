@@ -1,2 +1,6 @@
-# LearningLion-web
-LearningLion-web
+# LearningLion
+
+
+
+
+* Source: https://github.com/SSC-ICT-Innovatie/LearningLion
